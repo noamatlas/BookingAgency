@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import { sendHttpPost } from './sendHttpReq.js';
-import baseImg from 'C:/Users/nnoam/Desktop/FullStackStudy/BookingAgency/client/myApp/src/assets/shore.png';
 
 import Radio from '@mui/material/Radio';
 import RadioGroup from '@mui/material/RadioGroup';
